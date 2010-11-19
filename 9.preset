@@ -1,0 +1,13 @@
+PeriodX+-1:	1.0
+PeriodX+-.01%:	1.0
+PeriodY+-1:	2.0
+PeriodY+-.01%:	2.0
+PeriodZ+-1:	0.0
+StrokeWeight:	5.0
+PhaseXY(%):	0.10018869
+PhaseXZ(%):	0.29000002
+SpiralSpeed:	2.0
+ColorMode:	2.0
+SpiralSpacing:	0.1
+PhaseAnimation:	0.004899999
+ColorBlending:	0.0
